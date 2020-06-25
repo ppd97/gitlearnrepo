@@ -1,0 +1,11 @@
+let name ='Praju';
+let score=103.0;
+let bonus=20;
+let total_score= score +bonus;
+console.log(total_score);
+let firstName='Praju';
+firstName='Prajakta';
+let lastName='Dhatrak';
+let fullName=firstName+" "+lastName;
+console.log(firstName+" "+lastName);
+console.log(fullName);
