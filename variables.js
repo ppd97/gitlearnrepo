@@ -9,3 +9,5 @@ let lastName='Dhatrak';
 let fullName=firstName+" "+lastName;
 console.log(firstName+" "+lastName);
 console.log(fullName);
+console.log("Done with variables");
+console.log("Working");
